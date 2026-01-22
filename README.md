@@ -1,5 +1,7 @@
 # Ejemplo de subir proyecto
 
-Autor: <Shuyu>
+Autor:<Shuyu>
 
 He creado un proyecto en local y lo he subido a github.
+
+Cambiado
